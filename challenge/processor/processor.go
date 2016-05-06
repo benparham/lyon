@@ -4,10 +4,10 @@ import (
   "fmt"
   "image"
 
-  "github.com/lyon/challenge/common/imagedata"
-  "github.com/lyon/challenge/common/syncdata"
+  "github.com/benparham/lyon/challenge/common/imagedata"
+  "github.com/benparham/lyon/challenge/common/syncdata"
   chromath "github.com/jkl1337/go-chromath"
-  converter "github.com/lyon/challenge/colorconverter"
+  converter "github.com/benparham/lyon/challenge/colorconverter"
 )
 
 const PROCESSOR_BUFFER = 200

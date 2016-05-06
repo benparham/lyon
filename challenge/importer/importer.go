@@ -14,8 +14,8 @@ import (
 
   "runtime"
 
-  "github.com/lyon/challenge/common/imagedata"
-  "github.com/lyon/challenge/common/syncdata"
+  "github.com/benparham/lyon/challenge/common/imagedata"
+  "github.com/benparham/lyon/challenge/common/syncdata"
 )
 
 // ========== Constants

@@ -4,8 +4,8 @@ import (
   "fmt"
   "os"
 
-  "github.com/lyon/challenge/common/imagedata"
-  "github.com/lyon/challenge/common/syncdata"
+  "github.com/benparham/lyon/challenge/common/imagedata"
+  "github.com/benparham/lyon/challenge/common/syncdata"
 )
 
 const EXPORTER_BUFFER = 200

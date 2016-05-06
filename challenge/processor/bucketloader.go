@@ -6,7 +6,7 @@ import (
   "io"
   "os"
 
-  converter "github.com/lyon/challenge/colorconverter"
+  converter "github.com/benparham/lyon/challenge/colorconverter"
   chromath "github.com/jkl1337/go-chromath"
 )
 

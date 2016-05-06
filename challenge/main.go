@@ -6,10 +6,10 @@ import (
   "runtime"
 
   "github.com/docopt/docopt-go"
-  "github.com/lyon/challenge/common/syncdata"
-  "github.com/lyon/challenge/importer"
-  "github.com/lyon/challenge/processor"
-  "github.com/lyon/challenge/exporter"
+  "github.com/benparham/lyon/challenge/common/syncdata"
+  "github.com/benparham/lyon/challenge/importer"
+  "github.com/benparham/lyon/challenge/processor"
+  "github.com/benparham/lyon/challenge/exporter"
 )
 
 const DEFAULT_IDPATH = "classification-images-b655c3f2e16467c2277e2102f2304f95.csv"
